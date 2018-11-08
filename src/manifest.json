@@ -1,0 +1,22 @@
+{
+  "name": "Restaurant Reviews",
+  "short_name": "RR Co.",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+  {
+    "src": "/images/icon/restaurant-icon-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "/images/icon/restaurant-icon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+],
+  "splash_pages": null
+}
